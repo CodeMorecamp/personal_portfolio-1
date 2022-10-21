@@ -11,29 +11,29 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Full Stack Option</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Provides full stack solution
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Scalable at any level
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>For all type of clients
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Full Responsive
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Full SEO optimization
               </p>
             </li>
           </ul>
@@ -41,29 +41,29 @@ const Services = () => {
         {/* Emd of UI/UX */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Dev</h3>
+            <h3>Frontend Only</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Responsive Websites
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Modern technology for best perfomance
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Beautiful UI
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Landing pages for small to large business
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>SEO friendly
               </p>
             </li>
           </ul>
@@ -72,29 +72,25 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Design</h3>
+            <h3>Backend Option</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Manageable backend to manage all kind of logic
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Solution based implementation
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Admin Panel
               </p>
             </li><li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
-              </p>
-            </li><li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.
+              <p>Automation System
               </p>
             </li>
           </ul>

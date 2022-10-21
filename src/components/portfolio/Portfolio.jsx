@@ -47,9 +47,9 @@ const data = [
   {
     id: 6,
     image:IMG6,
-    title: 'Photograph Portfolio Design -In progress',
-    github: 'github.com',
-    demo: 'dribbble.com'
+    title: 'React Portfolio',
+    github: 'https://github.com/CodeMorecamp/personal_portfolio-1',
+    demo: 'https://ofemiportfolio.netlify.com'
   }
 ]
 

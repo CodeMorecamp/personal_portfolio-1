@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/image5.jpg'
+import ME from '../../assets/picture1.png'
 import {FaAward} from 'react-icons/fa'
 import {HiOutlineUsers} from 'react-icons/hi'
 import {GrProjects} from 'react-icons/gr'
@@ -33,8 +33,8 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis nisi fuga illum sequi 
-            cum nulla delectus excepturi expedita dolorum voluptatibus inventore enim, ullam magnam dicta.
+            I am a renowned Full Stack (Front heavy) Engineer. I'm currently freelanceing with #100 Dev Agency.
+            I would love to work with you on your next project be it Full Stack, Frontend or Backend.
           </p>
           <a href="#contact" className='btn btn-primary'>Lets talk</a>
         </div>

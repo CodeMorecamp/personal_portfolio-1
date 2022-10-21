@@ -19,9 +19,13 @@
     place-items: center;
 }
 .about__me-image {
+    max-width: 79%;
+    width: 350px;
+    height: auto;
+    margin-bottom: 2.5rem;
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
+    transform: rotate(12deg);
     transition: var(--transition);
 
 }
