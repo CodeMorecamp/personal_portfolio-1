@@ -1,10 +1,10 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/image5.jpg'
-import IMG2 from '../../assets/image2.jpg'
-import IMG3 from '../../assets/image3.jpg'
-import IMG4 from '../../assets/image1.jpg'
-import IMG5 from '../../assets/image4.jpg'
+import IMG1 from '../../assets/thinkerblog.png'
+import IMG2 from '../../assets/newsapp.png'
+import IMG3 from '../../assets/simple_portfolio.png'
+import IMG4 from '../../assets/Blog-cute.png'
+import IMG5 from '../../assets/983286.jpg'
 import IMG6 from '../../assets/image8.jpg'
 
 
@@ -13,41 +13,41 @@ const data = [
     id: 1,
     image:IMG1,
     title: 'Responsive Multipage Full Stack Blog',
-    github: 'github.com',
-    demo: 'dribbble.com'
+    github: 'https://github.com/CodeMorecamp/Thinker-Full-Job',
+    demo: 'https://thinkblog.netlify.app/'
   },
   {
     id: 2,
     image:IMG2,
-    title: 'React Responsive Portfolio',
-    github: 'github.com',
-    demo: 'dribbble.com'
+    title: 'News App -work in progress',
+    github: 'https://github.com/CodeMorecamp/Blog-1--ThinkerPen',
+    demo: 'https://thinkerpen.netlify.app/index.html'
   },
   {
     id: 3,
     image:IMG3,
-    title: 'Thinker Blog-App',
-    github: 'github.com',
-    demo: 'dribbble.com'
+    title: 'A simple Portfolio -in progress',
+    github: 'https://github.com/CodeMorecamp/Project_Folio/blob/master/index.html',
+    demo: 'https://velvety-crisp-e2de4b.netlify.app/'
   },
   {
     id: 4,
     image:IMG4,
-    title: 'Travel Site',
-    github: 'github.com',
-    demo: 'dribbble.com'
+    title: 'Cute Blog-App',
+    github: 'https://github.com/CodeMorecamp/devblog-personal-blog-website-master',
+    demo: 'https://thinkerpen2.netlify.app/#'
   },
   {
     id: 5,
     image:IMG5,
-    title: 'Responsive Admin Panel Design',
+    title: 'Responsive Admin Panel Design -in progress',
     github: 'github.com',
-    demo: 'dribbble.com'
+    demo: 'dribbble,com'
   },
   {
     id: 6,
     image:IMG6,
-    title: 'Photograph Portfolio Design',
+    title: 'Photograph Portfolio Design -In progress',
     github: 'github.com',
     demo: 'dribbble.com'
   }
