@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ofemiportfolio.netlify.com/static/css/main.6d164b6f.css",
+    "main.js": "/ofemiportfolio.netlify.com/static/js/main.588f79c9.js",
+    "static/media/Blog-cute.png": "/ofemiportfolio.netlify.com/static/media/Blog-cute.df28a5d167a1653cec1e.png",
+    "static/media/thinkerblog.png": "/ofemiportfolio.netlify.com/static/media/thinkerblog.01533f79e66c5444e9ea.png",
+    "static/media/simple_portfolio.png": "/ofemiportfolio.netlify.com/static/media/simple_portfolio.a4bc68c066f5f012d506.png",
+    "static/media/newsapp.png": "/ofemiportfolio.netlify.com/static/media/newsapp.d8bf0c91424655117ac6.png",
+    "static/media/image8.jpg": "/ofemiportfolio.netlify.com/static/media/image8.59bbfca667bf9ce02ed9.jpg",
+    "static/media/$Olabiyi_Femi.pdf": "/ofemiportfolio.netlify.com/static/media/$Olabiyi_Femi.c185bc098e97cf1138c1.pdf",
+    "static/media/983286.jpg": "/ofemiportfolio.netlify.com/static/media/983286.919ccf913f7ca8af9549.jpg",
+    "static/media/picture1.png": "/ofemiportfolio.netlify.com/static/media/picture1.a446412e7156215daf8b.png",
+    "static/media/backgroung.jpg": "/ofemiportfolio.netlify.com/static/media/backgroung.b31cdacd563ed2e5aea2.jpg",
+    "index.html": "/ofemiportfolio.netlify.com/index.html",
+    "main.6d164b6f.css.map": "/ofemiportfolio.netlify.com/static/css/main.6d164b6f.css.map",
+    "main.588f79c9.js.map": "/ofemiportfolio.netlify.com/static/js/main.588f79c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d164b6f.css",
+    "static/js/main.588f79c9.js"
+  ]
+}
